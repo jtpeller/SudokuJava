@@ -1,6 +1,6 @@
 # Sudoku
 
-A GUI Sudoku game written in Java using AWT/Swing. Because of the many visual issues in this project, I realized, along with my [tic-tac-toe](https://www.github.com/jtpeller/tic-tac-toe)
+A GUI Sudoku game written in Java using AWT/Swing. Because of the many visual issues in this project, I realized, along with my [tic-tac-toe](https://github.com/jtpeller/TicTacToeJava)
 
 ## Table of Contents
 
